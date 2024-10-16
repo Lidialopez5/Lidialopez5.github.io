@@ -2,4 +2,4 @@
 title: pagina 2
 layout: home
 ---
-Adios
+hfgttgthfg
