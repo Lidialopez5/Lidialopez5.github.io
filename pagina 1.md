@@ -1,5 +1,5 @@
 ---
 title: pagina 1
 layout: home
-parent: pagina 1
+nav_order: 1
 ---
